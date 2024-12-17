@@ -1,0 +1,22 @@
+{
+  "ProjectName": "Activity Management System",
+  "DefaultDateFormat": "MM/dd/yyyy",
+  "DefaultTimeFormat": "HH:MM:SS",
+  "DefaultTimezone": "(UTC+03:00) Amman",
+  "DefaultFirstDayOfTheWeek": "Monday",
+  "AttachmentsLocationType": "",
+  "AttachmentsLocationPath": "",
+  "MaestroThemeId": "c78e8b9f-57f6-4349-9c7c-dc43e626e91c",
+  "HomePageId": "4b38e1fc-f864-4ac3-8815-3bab5cf46649",
+  "RuntimeLanguage": "en",
+  "CreatedBy": null,
+  "CreationDate": null,
+  "ModifiedBy": 37,
+  "ModificationDate": "2024-12-17T10:39:15.5354836Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "6654e30d-2f29-4f4e-b3db-e177654a5742",
+  "Code": "",
+  "Name": ""
+}
