@@ -1,0 +1,21 @@
+{
+  "Sequence": null,
+  "Name": "ActivityManagementSystem",
+  "Code": null,
+  "Attachments": null,
+  "Files": [
+    {
+      "Id": "010e504a-dd6d-487a-a483-47622e4d7ac6",
+      "Name": "user-1.jpg",
+      "File": null
+    }
+  ],
+  "CreatedBy": "37",
+  "CreationDate": "2024-12-17T11:43:23.8932853Z",
+  "ModifiedBy": null,
+  "ModificationDate": null,
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "Id": "45c800b1-b0b6-4728-a9fb-e7091cd74136",
+  "MaestroBlocksEntityState": 0
+}
